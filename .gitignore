@@ -1,0 +1,35 @@
+# Build output directories
+bin/
+obj/
+MusicOrganizer/bin/
+MusicOrganizer/obj/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio and media files
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.smi
+*.m3u
+*.new
+
+# Images (Album art)
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# API Keys and credentials
+*key.txt
+*.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.metadata.json
+metadata_overrides.json

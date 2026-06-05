@@ -1,0 +1,25 @@
+# Build output directories
+bin/
+obj/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio files
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.smi
+
+# API Keys and credentials
+*key.txt
+*.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.metadata.json
+
